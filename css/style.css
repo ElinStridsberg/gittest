@@ -1,3 +1,9 @@
 main{
     background-color: aquamarine;
 }
+
+button{
+
+    background-color: blue;
+    border: 1px solid black;
+}
